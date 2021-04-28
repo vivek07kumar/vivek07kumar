@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vivek kumar. GitHub -: @vivek07kumar
+- 👋 Hi, I’m Vivek kumar.      GitHub -: @vivek07kumar
 - 👀 I’m interested in solving problems with the help of programming.
 - 🌱 I’m currently learning Python programming language and Windows powershell.
 - 💞️ I’m looking to collaborate on any problem solving  project.
